@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheSherx
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on games
 - 📫 How to reach me ...
 
 <!---
